@@ -1,6 +1,6 @@
 # financial-fraud-detection
 
-In this competition, we will detect online fraudulent transactions using machine learning techniques. Our objective is to implement a solution that comes under the top 5% in Kaggle leaderboard which is not an easy task. IEEE-CIS Fraud Detection is a Kaggle competition organized by the IEEE Computational Intelligence Society. Vesta Corporation who is one of the forerunners in guaranteed e-commerce payment solutions provided the dataset for this competition.
+here we will detect online fraudulent transactions using machine learning techniques. Our objective is to implement a solution that comes under the top 5% in Kaggle leaderboard which is not an easy task. IEEE-CIS Fraud Detection is a Kaggle competition organized by the IEEE Computational Intelligence Society. Vesta Corporation who is one of the forerunners in guaranteed e-commerce payment solutions provided the dataset for this competition.
 
 Business Objective
 The main business objective of finding fraud transactions can be following:
